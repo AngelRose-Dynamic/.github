@@ -33,7 +33,7 @@ Here are some of our notable projects:
 2. **Firmware Dissector**: Tools and techniques for analyzing and understanding firmware in various embedded systems.
 3. **Protocol Explorer**: A toolkit for reverse engineering and documenting communication protocols.
 
-Explore our [repositories](https://github.com/AngelRoseDynamic) to find more projects and tools.
+Explore our [repositories](https://github.com/AngelRose-Dynamic) to find more projects and tools.
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ To get started with any of our projects, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/AngelRoseDynamic/<project-repo>.git
+    git clone https://github.com/AngelRose-Dynamic/<project-repo>.git
     ```
 2. **Navigate to the project directory**:
     ```sh
